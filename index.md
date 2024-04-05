@@ -1,4 +1,6 @@
-# Adding header for this pull request.
+# Github Skills - Pull Request.
+Step one: First stepping to "Github Skills: Pull Request".
 
+Setp two: Adding image to "Pull Request".
 
-First stepping to Github Skills: Pull Requests.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
