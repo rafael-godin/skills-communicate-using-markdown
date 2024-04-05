@@ -11,3 +11,9 @@ Step three: Adding a cade block.
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+Step four: Make a task list.
+
+- [x] List syntax is required
+- [ ] This item is complete
+- [x] This item is not complete
